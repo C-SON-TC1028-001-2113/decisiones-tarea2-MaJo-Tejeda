@@ -1,6 +1,5 @@
 def main():
     #escribe tu código abajo de esta líne
-    #que no ya lo habiamos hecho en clase 
     x=int(input("Ingresa la media del Lado 1: "))
     y=int(input("Ingresa la media del Lado 2: "))
     z=int(input("Ingresa la media del Lado 3: "))
